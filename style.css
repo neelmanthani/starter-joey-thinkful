@@ -1,12 +1,18 @@
+body {
+    margin: 0;
+}
+
 header {
     background-color: #0B1C51;
-    
+    margin: 0px;
 }
 
 header h1 {
     font-size: 52;
     color: white;
     text-align: center;
+    margin-top:0px;
+
 }
 
 header nav {
